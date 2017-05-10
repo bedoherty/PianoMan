@@ -1,0 +1,21 @@
+{
+    "commandPrefix": "#",
+    "botToken": "MzEwMjY0NDA2MTIwNTk1NDY2.C-7fFQ.Xae0FQHgg7Qte3zqyopZtN2JjTI",
+    "memes": [
+        {
+            "command": "destiny",
+            "file": "./audio/destiny.mp3",
+            "response": "Cover the entrance!"
+        },
+        {
+            "command": "darude",
+            "file": "./audio/darude.mp3",
+            "response": ""
+        },
+        {
+            "command": "bronzescrapes",
+            "file": "./audio/bronzescrapes.mp3",
+            "response": "Bee woo woop"
+        }
+    ]
+}
