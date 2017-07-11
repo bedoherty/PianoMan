@@ -1,0 +1,17 @@
+{
+    "commandPrefix": "#",
+    "botToken": "YOUR_BOT_TOKEN_HERE",
+    "youtubeKey": "YOUR_YOUTUBE_KEY_HERE",
+    "volume": 0.01,
+    "defaultQueue": [
+        "YOUTUBE_ID_1",
+        "YOUTUBE_ID_2"
+    ],
+    "memes": [
+        {
+            "command": "command_text",
+            "file": "./path/to/file.mp3",
+            "response": "Response text"
+        }
+    ]
+}
